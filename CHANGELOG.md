@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/karan-cd/terraform-hcloud-dns/compare/v1.0.0...v1.1.0) (2026-06-30)
+
+
+### Features
+
+* added the workflow yml ([8e614b6](https://github.com/karan-cd/terraform-hcloud-dns/commit/8e614b68d1c3bab299a8b063fd24cf05a87068bf))
+
 # 1.0.0 (2026-06-30)
 
 
